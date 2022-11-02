@@ -6,11 +6,15 @@
 }
 
 .index-page .page-header .container > .content-center {
-  top: 55%;
+  top: 60%;
 }
 
 .index-page .page-header {
   height: 100vh;
+}
+
+.navbar .navbar-nav .nav-link:not(.btn) {
+  font-size: 0.9em;
 }
 
 [data-background-color="blue"] {
