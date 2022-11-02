@@ -1,0 +1,46 @@
+
+.navbar.navbar-transparent .navbar-nav>a.btn {
+  color: #000000;
+}
+
+.navbar.navbar-transparent a:not(.btn):not(.dropdown-item) {
+  color: #000000;
+}
+
+.bg-white {
+  background-color: #ffffff !important;
+}
+
+.navbar.navbar-transparent a:not(.btn):not(.dropdown-item) {
+  color: #000000;
+}
+
+.navbar.navbar-transparent {
+  color: #000000;
+}
+
+.page-header .content-center {
+  color: #000000;
+}
+
+.clear-filter[filter-color="white"] {
+  background: rgba(255, 255, 255, 0.2);
+  /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(90deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.8));
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(90deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.8));
+  /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(90deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.8));
+  /* For Firefox 3.6 to 15 */
+  background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.8));
+  /* Standard syntax */
+}
+
+@media screen and (max-width: 991px) {
+  body {
+    background: red;
+  }
+  .sidebar-collapse .navbar .navbar-toggler-bar {
+    background: #000000;
+  }
+}
