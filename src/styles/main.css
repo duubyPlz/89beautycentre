@@ -1,4 +1,8 @@
 
+[data-background-color="blue"] {
+  background-color: #abc6d6;
+}
+
 .navbar.navbar-transparent .navbar-nav>a.btn {
   color: #000000;
 }
