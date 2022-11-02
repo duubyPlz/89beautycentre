@@ -1,4 +1,8 @@
 
+p {
+  font-weight: 500;
+}
+
 .subtitle {
   font-size: 14px;
   font-weight: 700;
@@ -10,7 +14,7 @@
 }
 
 .index-page .page-header {
-  height: 100vh;
+  height: 110vh;
 }
 
 .navbar .navbar-nav .nav-link:not(.btn) {
