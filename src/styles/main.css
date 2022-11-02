@@ -1,4 +1,11 @@
 
+.subtitle {
+  font-size: 14px;
+  font-weight: 700;
+  /* color: rgb(34,51,62); */
+}
+
+
 [data-background-color="blue"] {
   background-color: #abc6d6;
 }
