@@ -242,6 +242,12 @@ hr:after {
   text-align: center;
 }
 
+.flourish {
+  width: 20px;
+  position: relative;
+  bottom: 1em;
+}
+
 #copyright {
   color: rgb(204,174,147);
 }
