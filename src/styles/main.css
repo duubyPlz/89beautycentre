@@ -13,8 +13,9 @@ p {
   word-spacing: 0.5px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.title {
   color: rgb(204,174,147);
+  font-weight: 400;
 }
 
 .page-title-image {
