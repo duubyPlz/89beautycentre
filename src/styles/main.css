@@ -1,4 +1,6 @@
-/* highlight: 204,174,147 */
+/* highlight: rgb(204,174,147) */
+/* #93c0db */
+/* #037395 */
 p {
   font-family: 'Cormorant Garamond', serif;
   font-size: 19px;
@@ -12,9 +14,9 @@ p {
 }
 
 .page-title {
-  color: #052b88;
+  color: #037395;
   font-family: Parisienne, serif;
-  font-size: 58px;
+  font-size: 65px;
 }
 
 .subtitle {
@@ -76,7 +78,7 @@ hr:after {
 
 [data-background-color="blue"] {
   /* background-color: #b1bbd2; */
-  background-color: #85acc4;
+  background-color: #93c0db;
   /* background-color: #052b88; */
 }
 
