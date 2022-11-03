@@ -95,6 +95,10 @@ hr:after {
   padding: 70px 35px;
 }
 
+.sub-page .section-container {
+  padding: 70px 100px;
+}
+
 .section-content {
   font-size: 90%;
 }
