@@ -10,11 +10,12 @@ p {
 }
 
 .index-page .page-header .container > .content-center {
-  top: 60%;
+  top: 50%;
 }
 
 .index-page .page-header {
-  height: 110vh;
+  height: 100vh;
+  min-height: 500px;
 }
 
 .navbar .navbar-nav .nav-link:not(.btn) {
