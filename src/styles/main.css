@@ -1,6 +1,8 @@
 /* highlight: rgb(204,174,147) */
 /* #93c0db */
 /* #037395 */
+/* image box shadow: var(--shd,0 1px 3px rgba(0,0,0,.5)) */
+
 body {
   min-width: 700px;
 }
@@ -16,6 +18,7 @@ p {
 .title {
   color: rgb(204,174,147);
   font-weight: 400;
+  padding-top: 0;
 }
 
 .page-title-image {
@@ -96,12 +99,33 @@ hr:after {
   padding: 70px 35px;
 }
 
-.sub-page .section-container {
+.services-page .section-container {
+  padding: 70px 100px;
+}
+
+.contact-page .section-container {
   padding: 70px 100px;
 }
 
 .section-content {
   font-size: 90%;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.service-subsection {
+  text-align: center;
+}
+
+.service-name {
+  text-align: right;
+}
+
+.price {
+  text-align: left;
 }
 /* End section */
 
@@ -302,3 +326,7 @@ hr:after {
   color: rgb(204,174,147);
 }
 /* End footer */
+
+#tree-flourish {
+  width: 40px;
+}
