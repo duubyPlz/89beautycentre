@@ -19,6 +19,7 @@ p {
   color: rgb(204,174,147);
   font-weight: 400;
   padding-top: 0;
+  text-transform: uppercase;
 }
 
 .page-title-image {
@@ -116,8 +117,12 @@ hr:after {
   margin-left: 0;
 }
 
-.service-subsection {
+.services-subsection {
   text-align: center;
+}
+
+.img-services {
+  width: 350px;
 }
 
 .service-name {
