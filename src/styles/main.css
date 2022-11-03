@@ -93,19 +93,24 @@ hr:after {
 
 /* Start section */
 .section {
-  padding: 0px;
+  padding: 40px 70px;
+}
+
+.section#main-section {
+  padding: 0;
 }
 
 .section-container {
   padding: 70px 35px;
+  max-width: 40vw;
 }
 
 .services-page .section-container {
-  padding: 70px 100px;
+  padding: 40px 70px;
 }
 
 .contact-page .section-container {
-  padding: 70px 100px;
+  padding: 40px 70px;
 }
 
 .section-content {
