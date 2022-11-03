@@ -3,10 +3,30 @@ p {
   font-weight: 500;
 }
 
+.page-title-image {
+  width: 200px;
+}
+
+.page-title {
+  color: #052b88;
+}
+
 .subtitle {
   font-size: 14px;
   font-weight: 700;
   color: rgb(34,51,62);
+}
+
+.section {
+  padding: 0px;
+}
+
+.section-container {
+  padding: 70px 35px;
+}
+
+.section-description {
+  font-size: 12px;
 }
 
 .index-page .page-header .container > .content-center {
@@ -19,7 +39,7 @@ p {
 }
 
 .navbar .navbar-nav .nav-link:not(.btn) {
-  font-size: 0.9em;
+  font-size: 1em;
 }
 
 [data-background-color="blue"] {
