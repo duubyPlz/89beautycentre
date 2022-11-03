@@ -15,6 +15,7 @@ p {
 
 .page-title-image {
   width: 200px;
+  margin-top: 100px;
 }
 
 .page-title {
@@ -32,7 +33,12 @@ p {
 
 .page-header .content-center {
   color: #000000;
-  max-width: 700px;
+  max-width: 600px;
+}
+
+/* start page header */
+.index-page .page-header .container {
+  height: 100vh;
 }
 
 .index-page .page-header .container > .content-center {
@@ -43,6 +49,21 @@ p {
   height: 100vh;
   min-height: 600px;
 }
+
+.sub-page .page-title-image {
+  width: 100px;
+  margin-top: 50px;
+}
+
+.sub-page .page-header {
+  min-height: 270px;
+  height: 50vh;
+}
+
+.sub-page .page-title {
+  font-size: 40px;
+}
+/* end page header */
 
 hr {
   border: none;
