@@ -120,8 +120,25 @@ hr:after {
   text-align: center;
 }
 
-.img-services {
+.services-image {
   width: 350px;
+  margin: 3px;
+}
+
+.image-container {
+  text-align: center;
+}
+.image-shadow {
+  display: inline-block;
+  box-shadow: var(--shd,0 1px 3px rgba(0,0,0,.5));
+  width: fit-content;
+  height: fit-content;
+}
+
+#tree-flourish {
+  width: 38px;
+  position: relative;
+  bottom: 20px;
 }
 
 .service-name {
@@ -330,7 +347,3 @@ hr:after {
   color: rgb(204,174,147);
 }
 /* End footer */
-
-#tree-flourish {
-  width: 40px;
-}
