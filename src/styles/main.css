@@ -4,7 +4,7 @@
 /* image box shadow: var(--shd,0 1px 3px rgba(0,0,0,.5)) */
 
 body {
-  min-width: 700px;
+  min-width: 400px;
 }
 
 p {
@@ -107,10 +107,6 @@ hr:after {
 }
 
 .services-page .section-container {
-  padding: 40px 70px;
-}
-
-.contact-page .section-container {
   padding: 40px 70px;
 }
 
