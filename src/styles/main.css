@@ -54,7 +54,8 @@ p {
   top: 50%;
 }
 
-.index-page .page-header {
+.index-page .page-header,
+.index-page .page-header .container {
   height: 100vh;
   min-height: 600px;
 }
