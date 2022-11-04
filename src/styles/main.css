@@ -116,6 +116,7 @@ hr:after {
   margin-left: 0;
 }
 
+/* start services section */
 .services-subsection {
   text-align: center;
 }
@@ -148,6 +149,7 @@ hr:after {
 .price {
   text-align: left;
 }
+/* end services section */
 /* End section */
 
 /* Start navbar */
@@ -227,17 +229,6 @@ hr:after {
   display:none
 }
 
-/* .navbar-collapse {
-  width:calc(100% - 30px);
-  position:absolute;
-  top:15px;
-  left:15px;
-  right:0;
-  z-index:1050;
-  overflow-y:auto;
-  height:calc(100vh - 30px)!important;
-  opacity:0
-} */
 .navbar-collapse .navbar-toggler {
   position:relative;
   display:inline-block;
