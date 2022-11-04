@@ -88,12 +88,12 @@ hr:after {
   opacity: 0.7;
   color: white;
   position: relative;
-  top: -0.5em;
+  top: -1em;
 }
 
 /* Start section */
 .section {
-  padding: 40px 70px;
+  padding: 40px 90px;
 }
 
 .section#main-section {
@@ -102,12 +102,8 @@ hr:after {
 
 .section-container {
   padding: 70px 35px;
-  max-width: 43vw;
+  max-width: 42vw;
   min-width: 500px;
-}
-
-.services-page .section-container {
-  padding: 40px 70px;
 }
 
 .section-content {
